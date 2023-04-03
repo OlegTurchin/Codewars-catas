@@ -33,7 +33,7 @@ An array/list comprised of any (but not necessarily all) of the integers from `1
  - Input will always be valid.
  - The range of values for n are: 10 >= n >= 3
 
-# Unfortunately, this kata is still under construction  (!)
+# Unfortunately, solution to this kata is still under construction  (!)
 
 The general concept works, but not all test cases can be passed successfully =( <br />
 After a week of trying, I decided that further work on this kata at the moment is an irrational use of time. <br />
